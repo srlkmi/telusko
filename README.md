@@ -1,1 +1,2 @@
 # telusko
+for telusko learning
